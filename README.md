@@ -93,7 +93,6 @@ Inflation-Analysis-PowerBI/
 │   ├── 05_report/
 │   │   └── ReportDesign_Template.pdf
 │   │
-│   ├── InflationAnalysis_SiddharthChauhan.pdf
 │   └── ProjectDocumentation.pdf
 │
 ├── GlobalInflationRate.pbix                        # Power BI project file
