@@ -93,10 +93,9 @@ Inflation-Analysis-PowerBI/
 │   ├── 05_report/
 │   │   └── ReportDesign_Template.pdf
 │   │
-│   ├── InflationAnalysis_SiddharthChauhan.pdf
 │   └── ProjectDocumentation.pdf
 │
-├── InflationAnalysis_SiddharthChauhan.pbix        # Power BI project file
+├── GlobalInflationRate.pbix        # Power BI project file
 ├── README.md                                       # Project overview and instructions
 └── LICENSE                                         # MIT License
 
@@ -146,7 +145,8 @@ Inflation-Analysis-PowerBI/
 
 ## 👤 About Me
 
-Hi, I’m **Bhushan Parate** –  A passionate and motivated tech enthusiast with 1 year of experience in the Salesforce domain at Flynaut SaaS Pvt. Ltd., I completed an internship at Smart Internz, further expanding my skills and practical knowledge in Power BI, Excel, Python, and SQL.
+Hi, I’m **Bhushan Parate** – a passionate tech professional with one year of hands-on experience in the Salesforce domain. I have a strong foundation in data analysis and recently completed an internship in **Power BI** at **Smart Internz**, where I enhanced my skills in data visualisation, report building, and business intelligence. My combined expertise in Salesforce and data analytics equips me to deliver meaningful insights and build effective CRM and analytics solutions.
+
 
 🔗 [LinkedIn] (https://www.linkedin.com/in/bhushan-parate-b5708a259/)
 📩 Always open to internships, remote projects, and data storytelling roles.
