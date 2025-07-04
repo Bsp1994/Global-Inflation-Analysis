@@ -119,7 +119,7 @@ Inflation-Analysis-PowerBI/
 
 | Dashboard Overview | Report & Insights |
 |--------------------|-------------------|
-| ![Dashboard](assets/Dashboard.png) | ![Report](assets/Report.png) |
+|![Dashboard](Dashboard.png) | ![Report](Report.png) |
 
 
 ---
