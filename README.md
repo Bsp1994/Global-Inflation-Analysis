@@ -93,10 +93,9 @@ Inflation-Analysis-PowerBI/
 │   ├── 05_report/
 │   │   └── ReportDesign_Template.pdf
 │   │
-│   ├── InflationAnalysis_SiddharthChauhan.pdf
 │   └── ProjectDocumentation.pdf
 │
-├── InflationAnalysis_SiddharthChauhan.pbix        # Power BI project file
+├── GlobalInflationRate.pbix                        # Power BI project file
 ├── README.md                                       # Project overview and instructions
 └── LICENSE                                         # MIT License
 
